@@ -1,3 +1,4 @@
+[![PyPI - Version](https://img.shields.io/pypi/v/cared)](https://pypi.org/project/cared)
 # CaReD PyPI package
 
 CaReD is a research data management system developed at LIKAT. The corresponding Python packages are named `cared-FEATURE` (e.g. [cared-cli](https://pypi.org/project/cared-cli/) which defines a `cared` command). 
